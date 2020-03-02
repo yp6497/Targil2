@@ -43,7 +43,7 @@ public class MainActivity extends AppCompatActivity {
             iv[2].setVisibility(view.INVISIBLE);
             iv[1].setImageResource(id[1]);
         }
-        if (x == 3) {
+        if (x == 3)  {
             iv[2].setVisibility(view.VISIBLE);
             iv[0].setVisibility(view.INVISIBLE);
             iv[1].setVisibility(view.INVISIBLE);
